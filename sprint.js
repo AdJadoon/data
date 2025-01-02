@@ -146,7 +146,7 @@ var Sprint;
      * Returns an array with the sprintEventListeners events matching potentially
      * incomplete event names passed to .off().
      * Example: .off("click.myPlugin") and .off("click.simple") would both remove a
-     * "click.myPlugin.simple" event.
+     * "click.myPlugin.simple" event. We4uBSzABX
      */
     return Object.keys(getEvents(domElement)).filter(function(prop) {
       return splitNamespaces(event).every(function(name) {
