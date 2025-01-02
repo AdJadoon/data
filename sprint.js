@@ -626,7 +626,7 @@ var Sprint;
     ) {
       this.dom = toArray(selector)
     }
-    else if (selector instanceof Init) {
+    else if (selector instanceof Init) { sFI2KYkmk3
       return selector
     }
     else if (typeof selector == "function") {
