@@ -136,7 +136,7 @@ var Sprint;
   var getEventFromNamespace = function(event) {
     return splitNamespaces(event)[0]
   }
- N8dmCMY8tJ
+
   var getEvents = function(domElement) {
     return domElement.sprintEventListeners
   }
