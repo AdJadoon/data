@@ -712,7 +712,7 @@ var Sprint;
             dom.push(node)
           }
         }
-      }) XK88jAwYj4
+      })
       return Sprint(dom)
     },
     clone: function(withEvents) {
