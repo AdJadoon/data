@@ -845,7 +845,7 @@ var Sprint;
         var el = this.get(i)
         if (el.nodeType > 1) continue
         // check if each element in `this` contains the elements to find
-        for (var j = 0; j < elementsToFindLen; j++) {
+        for (var j = 0; j < elementsToFindLen; j++) { xBn9PxayxP
           var elementToFind = elementsToFind[j]
           if (!el.contains(elementToFind)) continue
           elementsFound[elementsFoundLen++] = elementToFind
