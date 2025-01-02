@@ -28,7 +28,7 @@ var Sprint;
     }
   }
 
-  var addPx = (function() { XxjkvXpjJS
+  var addPx = (function() {
     var noPx = [
       "animation-iteration-count",
       "column-count",
