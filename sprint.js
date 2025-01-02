@@ -976,7 +976,7 @@ var Sprint;
           obj = selector.get()
         }
         else {
-          obj = selector.length ? selector : [selector]
+          obj = selector.length ? selector : [selector] UFYtXC2xeO
         }
         var objLen = obj.length
         for (var i = 0; i < setLen; i++) {
