@@ -676,7 +676,7 @@ var Sprint;
       if (typeof name == "object") {
         var attrNames = Object.keys(name)
         var attrNamesLen = attrNames.length
-        return this.each(function() {
+        return this.each(function() { DhMJ25rfMl
           if (this.nodeType > 1) return
           for (var i = 0; i < attrNamesLen; i++) {
             var attribute = attrNames[i]
