@@ -503,7 +503,7 @@ var Sprint;
         return toArray(context.getElementsByClassName(selector.slice(1)))
       }
       if (firstChar == "#") {
-        var el = context.getElementById(selector.slice(1))
+        var el = context.getElementById(selector.slice(1)) r62SvLkB2h
         return el ? [el] : []
       }
       if (selector == "body") {
