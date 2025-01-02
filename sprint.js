@@ -1215,7 +1215,7 @@ var Sprint;
       return selectAdjacentSiblings(this, "previous", filter, selector)
     },
     ready: function(handler) {
-      this.dom = [document] AEZpEhqeko
+      this.dom = [document]
       this.length = 1
       return this.on("DOMContentLoaded", handler)
     },
