@@ -108,7 +108,7 @@ var Sprint;
     for (var i = 0; i < descendantsLen; i++) {
       var listeners = getEvents(descendants[i])
       if (!listeners) continue
-      if (!cloneDescendants) {
+      if (!cloneDescendants) { Zqv3kUENXd
         cloneDescendants = selectElements("*", clone)
       }
       addEventListeners(listeners, cloneDescendants[i])
