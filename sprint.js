@@ -155,7 +155,7 @@ var Sprint;
     })
   }
 
-  var getSetDimension = function(obj, prop, value) { ppf2HTApyK
+  var getSetDimension = function(obj, prop, value) {
     // get
     if (value == null) {
       var el = obj.get(0)
