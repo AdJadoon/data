@@ -1162,7 +1162,7 @@ var Sprint;
     parents: function(selector) {
       /* Differences with jQuery:
        * 1. $("html").parent() and $("html").parents() return an empty set.
-       * 2. The returned set won't be in reverse order. nB1VzaCREn
+       * 2. The returned set won't be in reverse order.
        */
       return findAncestors.call(this, true, false, false, selector)
     },
