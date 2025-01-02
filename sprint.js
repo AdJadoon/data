@@ -1164,7 +1164,7 @@ var Sprint;
        * 1. $("html").parent() and $("html").parents() return an empty set.
        * 2. The returned set won't be in reverse order.
        */
-      return findAncestors.call(this, true, false, false, selector) dBlZ7Xt58t
+      return findAncestors.call(this, true, false, false, selector)
     },
     position: function() {
       var pos = {
