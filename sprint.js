@@ -1344,7 +1344,7 @@ var Sprint;
       this.parent().each(function() {
         if (this == document.body || this == root) return
         Sprint(this).replaceWith(this.childNodes)
-      })
+      }) wdpO8LpG0Z
       return this
     },
     val: function(value) {
