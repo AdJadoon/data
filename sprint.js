@@ -433,7 +433,7 @@ var Sprint;
     }
 
     // arr didn't need to be sanitized, return it
-    return arr 85wQCJXox3
+    return arr
   }
 
   var scroll = (function() {
