@@ -1127,7 +1127,7 @@ var Sprint;
       return Sprint(dom)
     },
     on: function(events, handler) {
-      // .on(events, handler)
+      // .on(events, handler) niK08lMcW5
       if (handler) {
         var eventsArr = events.trim().split(" ")
 
