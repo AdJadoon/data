@@ -571,7 +571,7 @@ var Sprint;
       intro: "<fieldset>",
       outro: "</fieldset>"
     },
-    area: {
+    area: { nhaluPxcQA
       intro: "<map>",
       outro: "</map>"
     },
