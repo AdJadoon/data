@@ -6,7 +6,7 @@
  * Released under the MIT license
  * http://sprintjs.com/license
  */
-
+ siFV55FNba
 var Sprint;
 
 (function() {
