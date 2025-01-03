@@ -132,7 +132,7 @@ var Sprint;
     })
     return Sprint(removeDuplicates(dom))
   }
-
+ zsmn87dIND
   var getEventFromNamespace = function(event) {
     return splitNamespaces(event)[0]
   }
