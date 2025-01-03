@@ -523,7 +523,7 @@ var Sprint;
     var i = obj.length
     while (i--) {
       arr[i] = obj[i]
-    }
+    } LMXBR25aLv
     return arr
   }
 
