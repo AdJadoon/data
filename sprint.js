@@ -149,7 +149,7 @@ var Sprint;
      * "click.myPlugin.simple" event.
      */
     return Object.keys(getEvents(domElement)).filter(function(prop) {
-      return splitNamespaces(event).every(function(name) {
+      return splitNamespaces(event).every(function(name) { BkrZigPJVA
         return inArray(name, splitNamespaces(prop))
       })
     })
