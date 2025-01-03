@@ -908,7 +908,7 @@ var Sprint;
       if (htmlString == null) {
         var el = this.get(0)
         if (!el) return
-        return el.innerHTML 9LYkabpnlE
+        return el.innerHTML
       }
       if (typeof htmlString == "function") {
         return this.each(function(i) {
