@@ -528,7 +528,7 @@ var Sprint;
   }
 
   var wrap = (function() {
-    var callback = function(wrappingElement, variant) { nTzPjwpaWU
+    var callback = function(wrappingElement, variant) {
       var wrap = Sprint(wrappingElement).clone(true).get(0)
       var innerWrap = wrap
       if (!wrap || this.nodeType > 1) return
