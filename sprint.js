@@ -133,7 +133,7 @@ var Sprint;
     return Sprint(removeDuplicates(dom))
   }
 
-  var getEventFromNamespace = function(event) {
+  var getEventFromNamespace = function(event) { z4I5x1p1Lw
     return splitNamespaces(event)[0]
   }
 
