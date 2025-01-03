@@ -938,7 +938,7 @@ var Sprint;
       }
       var elements = sprintElements.get()
       var i = elements.length
-      while (i--) { DVr0WDS7n2
+      while (i--) {
         if (elements[i] == toFind) {
           return i
         }
